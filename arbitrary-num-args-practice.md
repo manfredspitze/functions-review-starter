@@ -17,7 +17,7 @@
 ### Challenge 2: String Formatter
 
 - Write a function `format_message()` that takes multiple strings and returns a single string
-- The single string should display each message in quotation marks and separate each messsage with a comma
+- The single f-string should display each message in quotation marks and separate each messsage with a comma
 - Sample output: `"Hello", "How are you?", "Goodbye"`
 
 
